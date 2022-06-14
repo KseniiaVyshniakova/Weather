@@ -22,6 +22,12 @@ li {
 a {
   text-decoration: none;
 }
+.bottom-link {
+  margin: 20px auto;
+  padding: 0px 20px;
+  font-size: 12px;
+  max-width: 700px;
+}
 .btn-info {
   background-color: #9bc2f8;
   border-color: #9bc2f8;
